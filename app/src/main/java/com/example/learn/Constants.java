@@ -1,7 +1,7 @@
 package com.example.learn;
 
 public class Constants {
-    public static final String GOOGLE_YOUTUBE_API_KEY = "AIzaSyC2a003vFPLqX-oIXcsiwfj93b7URlIMcE";
+    public static final String GOOGLE_YOUTUBE_API_KEY = "Your YOUTUBE API KEY";
     public static final String GOOGLE_CHANNEL_ID = "UC8QMvQrV1bsK7WO37QpSxSg"; //Google Developers India
     public static final String FIREBASE_CHANNEL_ID = "UCP4bf6IHJJQehibu6ai__cg"; //Firebase
     public static final String GCP_CHANNEL_ID = "UCJS9pqu9BzkAMNTmzNMNhvg"; //gcp
